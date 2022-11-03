@@ -1,3 +1,4 @@
 function eat (){
     a
+    b
 }
